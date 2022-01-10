@@ -14,3 +14,6 @@ Polytechnic Institute (RPI).
 The topic descriptions are in the name of the files.
 
 My CS Ph.D. dissertation is also in this directory.
+
+These presentations are not the complete set.  Neither is there a complete set 
+of projects that I worked on and with others, including graduate students.
