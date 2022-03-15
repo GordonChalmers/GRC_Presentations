@@ -1,2 +1,3 @@
 # GRC_Presentations
-presentations given in chemistry
+Presentations given in chemistry and several recent papers.  
+PhD 2019 dissertation is included.
